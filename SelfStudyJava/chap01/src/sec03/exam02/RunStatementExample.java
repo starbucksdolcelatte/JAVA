@@ -1,6 +1,6 @@
 package sec03.exam02;
 /*
- * Author : Seoyoon Park
+ * Author : StarbucksDolceLatte
  * Date   : 2020.02.22
 */
 

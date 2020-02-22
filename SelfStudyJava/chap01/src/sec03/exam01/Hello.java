@@ -3,7 +3,7 @@ package sec03.exam01;
  * 이와 같은 package 선언이 반드시 있어야 합니다. */ 
 
 /*
- 작성자 : 박서윤
+ 작성자 : StarbucksDolceLatte
  작성일 : 2020.02.22
 */
 
