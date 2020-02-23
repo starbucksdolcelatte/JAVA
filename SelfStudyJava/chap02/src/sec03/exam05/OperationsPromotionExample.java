@@ -43,7 +43,14 @@ public class OperationsPromotionExample {
 		result = (double)x / y;
 		System.out.println(result);
 		
-				
+		
+		// 연습문제
+		long var1 = 2L;
+		float var2 = 1.8f;
+		double var3 = 2.5;
+		String var4 = "3.9";
+		int res = (int)(var1 + var2 + var3) + (int)Double.parseDouble(var4);
+		System.out.println(res);
 	}
 
 }
