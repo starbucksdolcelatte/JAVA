@@ -1,7 +1,7 @@
 package sec03.exam05;
 /*
  * Author : StarbucksDolceLatte
- * Date   : 2020.02.22
+ * Date   : 2020.02.23
 */
 
 public class OperationsPromotionExample {
