@@ -24,7 +24,7 @@ public class Car {
 		/* 객체가 없어도 실행된다는 특징 때문에 
 		 * static method를 선언할 때는 
 		 * 이들 내부에 인스턴스 필드나 인스턴스 메소드를 사용할 수 없습니다.
-		 * 
+		 * 	
 		this.speed = 10; // error
 		this.method1(); // error
 		*/
